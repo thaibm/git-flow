@@ -21,3 +21,14 @@ This project will demo git and git flow.
 
 # …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+# Git config 
+Identify
+`git config --global user.name “Thaibm"`
+`git config --global user.email thai.buiminh@nccsoft.vn`
+
+Alias
+`git config --global alias.co checkout`
+`git config --global alias.br branch` 
+`git config --global alias.ci commit` 
+`git config --global alias.st status`
