@@ -27,7 +27,9 @@ Identify
 
 `git config --global user.name “Thaibm"`
 
-`git config --global user.email thai.buiminh@nccsoft.vn`
+`git config --global user.email thai.buiminh@ncc.asia`
+
+`git config user.email thaibm.uet@gmail.com`
 
 Alias
 
