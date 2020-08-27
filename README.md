@@ -23,7 +23,7 @@ This project will demo git and git flow.
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 # Git config 
-Identify
+## 1. Identify
 
 `git config --global user.name “Thaibm"`
 
@@ -31,7 +31,7 @@ Identify
 
 `git config user.email thaibm.uet@gmail.com`
 
-Alias
+## 2. Alias
 
 `git config --global alias.co checkout`
 
